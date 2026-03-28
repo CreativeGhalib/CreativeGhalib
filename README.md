@@ -2,10 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Mesbah%20Ghalib&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20JavaScript%20Enthusiast&descAlignY=55&descAlign=50" width="100%" />
 </p>
 
-## 📈 Contribution Graph
-
-![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=CreativeGhalib&theme=github-dark&area=true&line=true)
-
 <h1 align="center">Hi 👋, I'm Mesbah Ghalib</h1>
 
 <h3 align="center">Frontend Developer focused on building clean, responsive, and user-friendly web experiences</h3>
