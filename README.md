@@ -35,6 +35,7 @@ Right now, I’m improving my problem-solving skills, strengthening my frontend 
 ## 🛠 Tech Stack
 
 ### Frontend
+
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -44,6 +45,7 @@ Right now, I’m improving my problem-solving skills, strengthening my frontend 
 </p>
 
 ### Tools
+
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -57,7 +59,7 @@ Right now, I’m improving my problem-solving skills, strengthening my frontend 
 ## 📊 GitHub Streak
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=CreativeGhalib&theme=tokyonight&hide_border=true&timezone=Asia%2FDhaka" />
+  <img src="https://ghalib-streak.vercel.app/?user=CreativeGhalib&theme=tokyonight&hide_border=true&timezone=Asia%2FDhaka" />
 </p>
 
 ---
@@ -65,18 +67,20 @@ Right now, I’m improving my problem-solving skills, strengthening my frontend 
 ## 🚀 Featured Projects
 
 ### 💸 Payoo Project
+
 A mobile banking inspired web application built for frontend practice, focusing on clean design, responsive layout, and interactive user experience.
 
 **Tech Used:** JavaScript, Tailwind CSS, HTML5, CSS3, Chart.js, Font Awesome
 
 **Highlights:**
+
 - Responsive and mobile-first user interface
 - Dashboard with balance, analytics, and recent transactions
 - Features like add money, send money, and bill payment flows
 - Notification filtering and profile customization
 - Theme switching with dark mode support
 
-🔗 **Live Demo:** [View Project](https://creativeghalib.github.io/Payoo-project/)  
+🔗 **Live Demo:** [View Project](https://creativeghalib.github.io/Payoo-project/)
 🔗 **GitHub Repo:** [View Code](https://github.com/CreativeGhalib/Payoo-project)
 
 ---
