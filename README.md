@@ -117,7 +117,7 @@ A marketplace-style web project for browsing Qurbani animals, checking details, 
 - Reusable frontend components
 - Clean navigation for browsing products
 
-🔗 [Live Demo](https://qurbanihat.vercel.app/) · [Source Code](https://github.com/CreativeGhalib/QurbaniHat)
+🔗 [Live Demo](https://qurbanihat-assignment-a8.vercel.app/) · [Source Code](https://github.com/CreativeGhalib/QurbaniHat)
 
 ---
 
