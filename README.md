@@ -2,49 +2,48 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Mesbah%20Ghalib&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20JavaScript%20Enthusiast&descAlignY=55&descAlign=50" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Mesbah Ghalib</h1>
+<h1 align="center">Hey, I'm Mesbah Ghalib 👋</h1>
 
-<h3 align="center">Frontend Developer focused on building clean, responsive, and user-friendly web experiences</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=900&lines=Frontend+Developer;JavaScript+Enthusiast;Building+responsive+and+interactive+web+interfaces;Learning+React+and+modern+web+development" alt="Typing SVG" />
-</p>
+<h3 align="center">Frontend Developer — I build things for the web</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mesbahghalib">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.mesbahghalib.me">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="mailto:mesbah.ghalib@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=900&lines=Frontend+Developer;JavaScript+Enthusiast;Currently+exploring+Next.js;Building+a+Tourism+Website;Always+learning%2C+always+building" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I’m a frontend-focused web developer who enjoys turning ideas into clean, responsive, and interactive user interfaces. I like working with JavaScript and modern UI tools to build projects that feel smooth, practical, and easy to use.
+I'm a self-taught frontend developer from Bangladesh who genuinely enjoys building things on the web. I spend most of my time writing JavaScript, experimenting with UI ideas, and slowly becoming less afraid of CSS.
 
-Right now, I’m improving my problem-solving skills, strengthening my frontend fundamentals, and learning React with the goal of becoming a strong full stack developer.
+I don't just follow tutorials — I like understanding *why* things work the way they do. I enjoy taking a rough idea and turning it into something that actually looks and feels good. Still learning, still building, still breaking things and fixing them.
 
 ---
 
-## 🛠 Tech Stack
+## 🔭 What I'm working on lately
 
-### Frontend
+- 🌍 Building a **Tourism Website** — a full frontend project with dynamic listings and a clean UI
+- ⚡ Exploring **Next.js** — getting comfortable with routing, SSR, and how it fits with React
+- 🧩 Solving JavaScript problems every day to sharpen my logic and DOM skills
+- 📱 Making my projects look good on every screen size, not just desktop
+- 🎨 Getting better at Figma so I can design before I code
+
+---
+
+## 🛠 Skills
+
+### Languages & Frameworks
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
-### Tools
+### Tools & Workflow
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -56,7 +55,12 @@ Right now, I’m improving my problem-solving skills, strengthening my frontend 
 
 ---
 
-## 📊 GitHub Streak
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CreativeGhalib&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CreativeGhalib&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
 
 <p align="center">
   <img src="https://ghalib-streak.vercel.app/?user=CreativeGhalib&theme=tokyonight&hide_border=true&timezone=Asia%2FDhaka" />
@@ -66,53 +70,47 @@ Right now, I’m improving my problem-solving skills, strengthening my frontend 
 
 ## 🚀 Featured Projects
 
-### 💸 Payoo Project
+### 💸 Payoo — Mobile Banking UI
 
-A mobile banking inspired web application built for frontend practice, focusing on clean design, responsive layout, and interactive user experience.
+A mobile banking inspired web app I built to push my frontend skills. The goal was to make it feel like a real product — not just a practice project.
 
-**Tech Used:** JavaScript, Tailwind CSS, HTML5, CSS3, Chart.js, Font Awesome
+**Tech:** JavaScript · Tailwind CSS · HTML5 · CSS3 · Chart.js · Font Awesome
 
-**Highlights:**
+**What it includes:**
+- Dashboard with balance, spending analytics, and transaction history
+- Add money, send money, and bill payment flows
+- Notification center with filtering
+- Dark mode + theme switching
+- Fully responsive and mobile-first
 
-- Responsive and mobile-first user interface
-- Dashboard with balance, analytics, and recent transactions
-- Features like add money, send money, and bill payment flows
-- Notification filtering and profile customization
-- Theme switching with dark mode support
-
-🔗 **Live Demo:** [View Project](https://creativeghalib.github.io/Payoo-project/)
-🔗 **GitHub Repo:** [View Code](https://github.com/CreativeGhalib/Payoo-project)
-
----
-
-## 📌 Current Focus
-
-- Improving JavaScript problem-solving and DOM skills
-- Building more polished and production-style frontend projects
-- Learning React and modern component-based development
-- Exploring backend concepts to grow into full stack development
+🔗 [Live Demo](https://creativeghalib.github.io/Payoo-project/) · [Source Code](https://github.com/CreativeGhalib/Payoo-project)
 
 ---
 
 ## 🤝 Open To
 
-- Frontend developer opportunities
-- Internship and junior developer roles
-- Collaborative web projects
-- Learning-focused developer communities
+- Frontend internships and junior developer roles
+- Collaborating on projects with other developers
+- Honest feedback on my work — seriously, don't hold back
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Find Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mesbahghalib">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.snapchat.com/add/mesbahghalib">
+    <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" />
+  </a>
+  <a href="https://www.tiktok.com/@mesbah.ghalib">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
   <a href="https://www.mesbahghalib.me">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel" />
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="mailto:mesbahghalib@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  <a href="mailto:mesbah.ghalib@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
