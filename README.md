@@ -63,6 +63,10 @@ I don't just follow tutorials — I like understanding *why* things work the way
 </p>
 
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CreativeGhalib&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</p>
+
+<p align="center">
   <img src="https://ghalib-streak.vercel.app/?user=CreativeGhalib&theme=tokyonight&hide_border=true&timezone=Asia%2FDhaka" />
 </p>
 
@@ -84,6 +88,36 @@ A mobile banking inspired web app I built to push my frontend skills. The goal w
 - Fully responsive and mobile-first
 
 🔗 [Live Demo](https://creativeghalib.github.io/Payoo-project/) · [Source Code](https://github.com/CreativeGhalib/Payoo-project)
+
+### 🐾 PawAdopt — Pet Adoption Platform
+
+A pet adoption web application focused on helping users explore pets, review adoption details, and move through a clean adoption experience.
+
+**Tech:** React · JavaScript · Tailwind CSS · Firebase · Vite
+
+**What it includes:**
+- Pet listing and details pages
+- Adoption-focused user flow
+- Responsive frontend layout
+- Firebase-powered app setup
+- Client-side routing and reusable UI components
+
+🔗 [Live Demo](https://pawadopt-client.vercel.app/) · [Source Code](https://github.com/CreativeGhalib/pawadopt-client)
+
+### 🐄 QurbaniHat — Qurbani Marketplace UI
+
+A marketplace-style web project for browsing Qurbani animals, checking details, and exploring a clean buying-focused user interface.
+
+**Tech:** React · JavaScript · Tailwind CSS · Firebase · Vite
+
+**What it includes:**
+- Animal listing and details experience
+- Marketplace-style responsive UI
+- Firebase integration
+- Reusable frontend components
+- Clean navigation for browsing products
+
+🔗 [Live Demo](https://qurbanihat.vercel.app/) · [Source Code](https://github.com/CreativeGhalib/QurbaniHat)
 
 ---
 
