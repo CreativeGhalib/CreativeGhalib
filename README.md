@@ -78,6 +78,10 @@ I don't just follow tutorials — I like understanding *why* things work the way
 
 A mobile banking inspired web app I built to push my frontend skills. The goal was to make it feel like a real product — not just a practice project.
 
+<p align="center">
+  <img src="./assets/project-screenshots/payoo.png" alt="Payoo mobile banking UI screenshot" width="85%" />
+</p>
+
 **Tech:** JavaScript · Tailwind CSS · HTML5 · CSS3 · Chart.js · Font Awesome
 
 **What it includes:**
@@ -93,6 +97,10 @@ A mobile banking inspired web app I built to push my frontend skills. The goal w
 
 A pet adoption web application focused on helping users explore pets, review adoption details, and move through a clean adoption experience.
 
+<p align="center">
+  <img src="./assets/project-screenshots/pawadopt.png" alt="PawAdopt pet adoption platform screenshot" width="85%" />
+</p>
+
 **Tech:** React · JavaScript · Tailwind CSS · Firebase · Vite
 
 **What it includes:**
@@ -107,6 +115,10 @@ A pet adoption web application focused on helping users explore pets, review ado
 ### 🐄 QurbaniHat — Qurbani Marketplace UI
 
 A marketplace-style web project for browsing Qurbani animals, checking details, and exploring a clean buying-focused user interface.
+
+<p align="center">
+  <img src="./assets/project-screenshots/qurbanihat.png" alt="QurbaniHat marketplace UI screenshot" width="85%" />
+</p>
 
 **Tech:** React · JavaScript · Tailwind CSS · Firebase · Vite
 
