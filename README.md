@@ -47,11 +47,7 @@ I am a MERN stack developer who enjoys taking a product from idea to deployment.
 
 ### LegalEase — Legal Counsel Marketplace
 
-<p>
-  <a href="https://legalease-sand.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-Open_Application-16A34A?style=for-the-badge&logo=vercel&logoColor=white" alt="Open LegalEase live application" /></a>
-  <a href="https://github.com/CreativeGhalib/legalease-client"><img src="https://img.shields.io/badge/Client-Source_Code-181717?style=for-the-badge&logo=github" alt="LegalEase client repository" /></a>
-  <a href="https://github.com/CreativeGhalib/legalease-server"><img src="https://img.shields.io/badge/Server-Source_Code-181717?style=for-the-badge&logo=github" alt="LegalEase server repository" /></a>
-</p>
+**[Live Demo](https://legalease-sand.vercel.app/)** | **[Client Repo](https://github.com/CreativeGhalib/legalease-client)** | **[Server Repo](https://github.com/CreativeGhalib/legalease-server)**
 
 <a href="https://legalease-sand.vercel.app/">
   <img src="./assets/project-screenshots/legalease.png" alt="LegalEase legal counsel marketplace homepage" width="100%" />
@@ -72,11 +68,7 @@ LegalEase is a full-stack marketplace where clients discover published lawyers, 
 
 ### PawAdopt — Pet Adoption Platform
 
-<p>
-  <a href="https://pawadopt-client.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-Open_Application-16A34A?style=for-the-badge&logo=vercel&logoColor=white" alt="Open PawAdopt live application" /></a>
-  <a href="https://github.com/CreativeGhalib/pawadopt-client"><img src="https://img.shields.io/badge/Client-Source_Code-181717?style=for-the-badge&logo=github" alt="PawAdopt client repository" /></a>
-  <a href="https://github.com/CreativeGhalib/pawadopt-server"><img src="https://img.shields.io/badge/Server-Source_Code-181717?style=for-the-badge&logo=github" alt="PawAdopt server repository" /></a>
-</p>
+**[Live Demo](https://pawadopt-client.vercel.app/)** | **[Client Repo](https://github.com/CreativeGhalib/pawadopt-client)** | **[Server Repo](https://github.com/CreativeGhalib/pawadopt-server)**
 
 <a href="https://pawadopt-client.vercel.app/">
   <img src="./assets/project-screenshots/pawadopt.png" alt="PawAdopt pet adoption platform homepage" width="100%" />
@@ -97,10 +89,7 @@ PawAdopt connects prospective adopters with pet owners through a responsive brow
 
 ### QurbaniHat — Livestock Booking Marketplace
 
-<p>
-  <a href="https://qurbanihat-assignment-a8.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-Open_Application-16A34A?style=for-the-badge&logo=vercel&logoColor=white" alt="Open QurbaniHat live application" /></a>
-  <a href="https://github.com/CreativeGhalib/QurbaniHat"><img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github" alt="QurbaniHat GitHub repository" /></a>
-</p>
+**[Live Demo](https://qurbanihat-assignment-a8.vercel.app/)** | **[Source Code](https://github.com/CreativeGhalib/QurbaniHat)**
 
 <a href="https://qurbanihat-assignment-a8.vercel.app/">
   <img src="./assets/project-screenshots/qurbanihat.png" alt="QurbaniHat livestock booking marketplace homepage" width="100%" />
