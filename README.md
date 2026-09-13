@@ -85,6 +85,10 @@ const creativeGhalib = {
 ### 1. LegalEase - Legal Counsel Marketplace
 **Live Demo** | **Client Repo** | **Server Repo**
 
+<p align="center">
+  <img src="./assets/project-screenshots/legalease.png" alt="LegalEase screenshot" width="85%" />
+</p>
+
 - Built a legal counsel marketplace with lawyer discovery, filters, pagination, and detailed profile pages.
 - Implemented email/password and Google authentication with role-based dashboards for clients, lawyers, and admins.
 - Integrated Stripe Checkout for secure hiring payments and built an admin panel for lawyer moderation.
