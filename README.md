@@ -45,6 +45,27 @@ I am a MERN stack developer who enjoys taking a product from idea to deployment.
 
 ## Featured Projects
 
+### WorkPilot AI — Service Marketplace with Agentic AI
+
+**[Live Demo](https://workpilot-client-mesbahghalib-3393.vercel.app/)** | **[Client Repo](https://github.com/CreativeGhalib/workpilot-client)** | **[Server Repo](https://github.com/CreativeGhalib/workpilot-server)**
+
+<a href="https://workpilot-client-mesbahghalib-3393.vercel.app/">
+  <img src="./assets/project-screenshots/workpilot.png" alt="WorkPilot AI service marketplace homepage" width="100%" />
+</a>
+
+WorkPilot AI is a full-stack marketplace where clients discover service providers, pay through sandbox payment flows, and collaborate through projects and milestones, supported by two agentic AI features.
+
+**Highlights**
+
+- Two Agentic AI features: a scoping/app assistant with conversation history, suggested prompts, and safe in-app navigation, plus a recommendation engine that refines from interaction feedback
+- Service discovery with search, filters, sorting, and pagination, then bookings that become tracked projects and milestones
+- Sandbox Stripe and bKash payments where the server verifies every callback before a booking counts as paid
+- Dispute resolution with audited state transitions, verified one-per-booking reviews, and role-aware dashboards
+
+**Built with:** Next.js, React, TypeScript, Tailwind CSS, TanStack Query, Recharts, Node.js, Express.js, MongoDB, Mongoose, JWT, Google Sign-In, Stripe, bKash
+
+---
+
 ### LegalEase — Legal Counsel Marketplace
 
 **[Live Demo](https://legalease-sand.vercel.app/)** | **[Client Repo](https://github.com/CreativeGhalib/legalease-client)** | **[Server Repo](https://github.com/CreativeGhalib/legalease-server)**
